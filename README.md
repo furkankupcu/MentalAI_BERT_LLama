@@ -1,4 +1,4 @@
-![Patika New Mind AI Bootcamp_page-0004](https://github.com/user-attachments/assets/d1643562-b9ec-4da4-be6f-b29972b5feef)# Mental Sağlık AI Destek Projesi
+# Mental Sağlık AI Destek Projesi
 
 ## Genel Bakış
 Bu proje, bireylerin mental sağlıklarını iyileştirmek ve desteklemek amacıyla bir yapay zeka destekli asistan geliştirmeyi hedefler.  
